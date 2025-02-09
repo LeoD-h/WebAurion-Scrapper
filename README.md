@@ -10,7 +10,6 @@ Ce script Python est un scraper simple pour vérifier les nouvelles notes sur We
 
    ```bash
    python3 scraper.py
-   
 
 ## Fonctionnalités
 
