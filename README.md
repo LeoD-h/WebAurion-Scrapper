@@ -49,5 +49,3 @@ import re
 ## Remarque
 
 Assurez-vous que vos identifiants sont corrects et que vous avez accès à WebAurion avant de lancer le script. De plus, Chrome doit être installé sur votre système pour que Selenium puisse fonctionner correctement.
-
-```
