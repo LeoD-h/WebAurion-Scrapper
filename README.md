@@ -1,4 +1,3 @@
-```markdown
 # WebAurion Note Scraper
 
 Ce script Python est un scraper simple pour vérifier les nouvelles notes sur WebAurion. Il est conçu pour fonctionner sur les systèmes Unix.
@@ -11,7 +10,7 @@ Ce script Python est un scraper simple pour vérifier les nouvelles notes sur We
 
    ```bash
    python3 scraper.py
-   ```
+   
 
 ## Fonctionnalités
 
